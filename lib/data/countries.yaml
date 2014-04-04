@@ -3109,6 +3109,7 @@ GB:
   longitude: 2 00 W
   name: United Kingdom
   names:
+  - UK
   - United Kingdom
   - Vereinigtes Königreich
   - Royaume-Uni
@@ -9312,6 +9313,8 @@ US:
   - Estados Unidos
   - アメリカ合衆国
   - Verenigde Staten
+  - States
+  - The States
   translations:
     en: United States of America
     it: Stati Uniti D'America
